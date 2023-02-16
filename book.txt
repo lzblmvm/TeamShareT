@@ -1,0 +1,5 @@
+If you are using the Git Bash shell, you can use the following trick: 
+> xxx.txt 
+This is actuall same as: 
+echo "" > xxx.txt 
+Then you can use "git add" to stage the new file. 
